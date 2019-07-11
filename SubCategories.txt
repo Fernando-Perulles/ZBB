@@ -1,0 +1,128 @@
+01 Travel	
+	01_01 Meals
+	01_02 Airfare
+	01_03 Lodging
+	01_04 Ground Transportation (Mileage Reimbursement)
+	01_04 Ground Transportation (Rental Car)
+	01_04 Ground Transportation (Taxi/Tolls/Parking/Fuel)
+	01_04 Ground Transportation (Train/Bus)
+	01_05 Other Travel Costs
+02 People	
+	02_01 Individual Benefits
+	02_02 Uniforms
+	02_03 Personal Protective Equipment
+	02_04 Life Insurance
+	02_05 Health Benefits
+	02_06 Training
+	02_07 Overtime
+	02_08 Recruitment
+	02_09 Mobility
+	02_10 Wages & Benefits Penalties
+	02_11 Temporary Labor
+	02_12 Union-Related Expenses
+03 Institutional	
+  03_01 Internal Events
+	03_02 Donations
+	03_03 Associations
+	03_04 Memberships & Subscriptions
+	03_05 Internal Communications
+	03_06 Catering
+	03_07 Associate Transport
+	03_08 Food Subsidy
+04 Facilities	
+	04_01 Lease of Real Estate
+	04_02 Lease of Warehouse
+	04_03 Lease of Machinery
+	04_04 Office Supplies
+	04_05 Water & Utilities
+	04_06 Real Estate Insurance
+	04_07 Cleaning
+	04_08 Landscaping
+05 Services	
+	05_01 Corporate Fee
+	05_02 Shared Sales Centers Fee
+	05_03 Shared Services Center (CSC)
+	05_04 Money & Valuables Transport
+	05_05 Laboratory Services
+	05_06 Pest Control
+	05_07 Postage & Courier
+	05_08 Duties, Taxes and Obligations
+	05_09 Security
+06 Professional Services	
+	06_01 Audit
+	06_02 Legal
+	06_03 Consulting
+	06_04 Other Professional Services
+07 Information Technology	
+	07_01 IT Charge Back
+	07_02 Commercial Software (Application Support Outsourcing)
+	07_02 Commercial Software (Software & On Demand Services)
+	07_03 Voice Network - Mobile
+	07_04 Voice Network - Landline and Internet
+	07_05 Datalink
+	07_06 System Operations (Comm Equip and Maintenance)
+	07_06 System Operations (Data Center)
+	07_06 System Operations (IT Support Outsourcing)
+	07_06 System Operations (Printers and Copiers)
+	07_06 System Operations (Workplace Equip and Maintenance)
+	07_07 Hand Held Maintenance
+	07_08 IT Projects (IT Projects)
+08 Maintenance	
+	08_01 Industrial Equipment & Machinery Maintenance
+	08_02 Logistics Support Equipment Maintenance
+	08_03 Autovend Equipment Maintenance
+	08_04 Building & Facilities Maintenance
+09 Logistics	
+	09_01 Shipping Materials
+	09_02 Supply Chain Losses
+	09_03 Third Party Logistics
+	09_04 Exports
+10 PTR Transport	
+	10_01 Fuel
+	10_02 Third Party Freight
+	10_03 Fleet Maintenance
+	10_04 Toll Fees
+	10_05 Taxes
+	10_06 Tires
+	10_07 Other Freight
+	10_08 Fleet Self-Insurance
+	10_09 Fleet Insurance
+	10_10 Tier 1 Vehicle Leasing
+11 DTC Transport	
+	11_01 Fuel
+	11_02 Tier 2 Vehicles Leasing
+	11_03 Fleet Maintenance
+	11_04 Toll Fees
+	11_05 Taxes
+	11_06 Tires
+	11_07 Fleet Self-Insurance
+	11_08 Fleet Insurance
+12 Marketing	
+	12_01 Media Buying
+	12_02 Market Research
+	12_03 Advertising Production
+	12_04 Agency Fees & Expenses
+	12_05 Brand Promotion
+	12_06 Sponsorships
+	12_07 Digital Production
+	12_08 Royalties
+	12_09 Vehicle Lettering
+	12_10 Obsolete Marketing Materials
+	12_11 Packaging Design
+	12_12 Coupon Expenses
+13 Sales	
+	13_01 Commercial Activity (Sales Incentives)
+	13_02 Commercial Conditions (Allowances)
+	13_03 Displays
+	13_04 Sale Commissions
+	13_05 Point of Sale Marketing Materials
+	13_06 Commercial Losses
+	13_07 Merchandisers & Promoters
+	13_08 Fairs and Expos (Trade Events)
+	13_09 Commercial Relationship Management
+14 Independent Operators	
+	14_01 Vehicle Expenses
+	14_02 Uniform Expenses
+	14_03 Marketing Expenses
+	14_04 Route Expenses
+	14_05 Discounts
